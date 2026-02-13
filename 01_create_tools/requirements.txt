@@ -1,0 +1,7 @@
+pydantic
+mlflow
+unitycatalog-langchain[databricks]
+unitycatalog-ai[databricks]
+pyyaml
+tabulate
+pandas
